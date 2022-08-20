@@ -1,0 +1,15 @@
+/Users/macbookair/Desktop/Examples/Example_006/bin/Debug/net6.0/Example_006
+/Users/macbookair/Desktop/Examples/Example_006/bin/Debug/net6.0/Example_006.deps.json
+/Users/macbookair/Desktop/Examples/Example_006/bin/Debug/net6.0/Example_006.runtimeconfig.json
+/Users/macbookair/Desktop/Examples/Example_006/bin/Debug/net6.0/Example_006.dll
+/Users/macbookair/Desktop/Examples/Example_006/bin/Debug/net6.0/Example_006.pdb
+/Users/macbookair/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.csproj.AssemblyReference.cache
+/Users/macbookair/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.AssemblyInfo.cs
+/Users/macbookair/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.dll
+/Users/macbookair/Desktop/Examples/Example_006/obj/Debug/net6.0/refint/Example_006.dll
+/Users/macbookair/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.pdb
+/Users/macbookair/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.genruntimeconfig.cache
+/Users/macbookair/Desktop/Examples/Example_006/obj/Debug/net6.0/ref/Example_006.dll
