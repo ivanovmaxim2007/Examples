@@ -1,0 +1,15 @@
+/Users/macbookair/Desktop/Home task/Task_001/bin/Debug/net6.0/Task_001
+/Users/macbookair/Desktop/Home task/Task_001/bin/Debug/net6.0/Task_001.deps.json
+/Users/macbookair/Desktop/Home task/Task_001/bin/Debug/net6.0/Task_001.runtimeconfig.json
+/Users/macbookair/Desktop/Home task/Task_001/bin/Debug/net6.0/Task_001.dll
+/Users/macbookair/Desktop/Home task/Task_001/bin/Debug/net6.0/Task_001.pdb
+/Users/macbookair/Desktop/Home task/Task_001/obj/Debug/net6.0/Task_001.csproj.AssemblyReference.cache
+/Users/macbookair/Desktop/Home task/Task_001/obj/Debug/net6.0/Task_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/Home task/Task_001/obj/Debug/net6.0/Task_001.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/Home task/Task_001/obj/Debug/net6.0/Task_001.AssemblyInfo.cs
+/Users/macbookair/Desktop/Home task/Task_001/obj/Debug/net6.0/Task_001.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/Home task/Task_001/obj/Debug/net6.0/Task_001.dll
+/Users/macbookair/Desktop/Home task/Task_001/obj/Debug/net6.0/refint/Task_001.dll
+/Users/macbookair/Desktop/Home task/Task_001/obj/Debug/net6.0/Task_001.pdb
+/Users/macbookair/Desktop/Home task/Task_001/obj/Debug/net6.0/Task_001.genruntimeconfig.cache
+/Users/macbookair/Desktop/Home task/Task_001/obj/Debug/net6.0/ref/Task_001.dll
